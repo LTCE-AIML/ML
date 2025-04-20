@@ -1,2 +1,2 @@
 # ML
-ML Practical from Exp 2 to Exp 10
+ML Practical from Exp 3 to Exp 10
