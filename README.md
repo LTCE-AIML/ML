@@ -2,6 +2,7 @@
 ML Practical from Exp 3 to Exp 10
 
 Steps on how to run the program
+
 Step 1 : Clone the repository
 
 Step 2 : search jupyter notebook or colab in google
